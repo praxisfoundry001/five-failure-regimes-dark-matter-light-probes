@@ -2,7 +2,7 @@
 
 ## An Open-Source Pre-Result Demonstration Protocol
 
-**DOI:** [ADD DOI AFTER ZENODO PUBLICATION]
+**DOI:** (https://doi.org/10.5281/zenodo.22801313)
 
 This repository contains a proposed experimental protocol for testing whether a five-way Structural Flow first-break classification can make useful, falsifiable predictions in dark-matter-sensitive light-probe settings.
 
@@ -147,4 +147,4 @@ All substantive arguments, theoretical claims, experimental-design choices, scop
 
 **Five Failure Regimes in Dark-Matter Light Probes: An Open-Source Pre-Result Demonstration Protocol.**
 
-DOI: **[ADD DOI AFTER ZENODO PUBLICATION]**
+DOI: **(https://doi.org/10.5281/zenodo.22801313)**
